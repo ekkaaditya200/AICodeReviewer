@@ -12,9 +12,9 @@ An intelligent code review assistant built using **React.js**, **Tailwind CSS**,
 
 ### 🧱 Tech Stack
 
-* **Frontend:** React.js, Tailwind CSS
+* **Frontend:** React.js, Tailwind CSS, PrismJS, Axios
+* **Backend:** Node js, Express js
 * **AI Integration:** OpenAI API (GPT models)
-* **Deployment Ready:** Fully responsive and optimized for web
 
 ### 📌 Use Case
 
